@@ -220,3 +220,5 @@ python run.py --input input/shaky_gopro.mp4 --save-frames 0 50 100 200 400
 В github для удобства запушил весь контекс с input и output. 
 
 Вот оригинал видео, котороя я обрезал для простоты - https://www.youtube.com/watch?v=ZTy8cD1WyEc (The Best First Person Action Video of All Time )
+
+Также для воспроизводимости ноутбука нужно заменить путь файла для видео
